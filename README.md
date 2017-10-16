@@ -4,7 +4,7 @@
 
 ไม่ต้องพูดไรมาก จัดให้เน้นๆ 555
 
-Debian 7 64 bit
+Debian 7 64 bit เท่านั้น
 จัดมาเลย เว็บไหนก้อได้ ลงได้หมด 
 ดิ้นวันล่ะนิดจิตแจ่มใส อย่าดิ้นบ่อย เด่วไข่ถลอก..
 
@@ -13,7 +13,7 @@ __________________________________________________
 
 Debian7
 ```
-wget https://raw.githubusercontent.com/d1nfuck3r/oneclick-pritunl/master/debian8.sh
+wget -O install.sh https://github.com/D1NFUCK3Rs/moth3r-debian7/blob/master/install.sh?raw=true
 chmod +x install.sh
 ./install.sh
 ```
