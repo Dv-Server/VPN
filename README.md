@@ -13,7 +13,7 @@ __________________________________________________
 
 Debian7
 ```
-wget -O install.sh https://github.com/D1NFUCK3Rs/moth3r-debian7/blob/master/install.sh?raw=true
+wget -O install.sh https://github.com/Dv-Server/moth3r-debian7/blob/master/install.sh?raw=true
 chmod +x install.sh
 ./install.sh
 ```
